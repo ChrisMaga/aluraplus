@@ -85,6 +85,7 @@ body {
 
 .descricao__texto {
     color: var(--cinza-secundario);
+    margin-bottom: 0.1em;
 }
 
 .secundario__botao {
@@ -93,7 +94,13 @@ body {
 }
 
 .container__descricao {
-    padding: 2em;
+    padding: 5em;
+    margin-bottom: 0.1em;
+}
+
+.terceiro {
+    align-items: center;
+    margin: 0 10em 0 10em;
 }
 
 .dispositivos__lista {
